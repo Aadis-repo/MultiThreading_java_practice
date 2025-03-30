@@ -1,0 +1,17 @@
+
+g	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8²æİ˜Ş2
+g	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8³æİ˜Ş2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú–¾ë8´æİ˜Ş2
+G	java:S106"+Replace this use of System.out by a logger.(º”³Ï8ºæİ˜Ş2
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ºæİ˜Ş2
+\
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(ÆßˆÍÿÿÿÿÿ8»æİ˜Ş2
+F	java:S106""+Replace this use of System.out by a logger.(£Ø¼@8»æİ˜Ş2
+L	java:S1061"+Replace this use of System.out by a logger.(Ë†ãøşÿÿÿÿ8¼æİ˜Ş2
+{
+java:S21424"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8½æİ˜Ş2
+e
+java:S22763"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8½æİ˜Ş2
+R
+java:S24468"0"notify" may not wake up the appropriate thread.(Ş¬¤òùÿÿÿÿ8½æİ˜Ş2

@@ -1,0 +1,10 @@
+
+E
+java:S1604#"(Make this anonymous inner class a lambda(‡θέω8Βρε‘ή2
+E
+java:S1604,"(Make this anonymous inner class a lambda(δ…±‚8Βρε‘ή2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Πϊ±ϊÿÿÿÿ8Γρε‘ή2
+G	java:S106("+Replace this use of System.out by a logger.(τΚ…8βοχ‘ή2
+G	java:S1060"+Replace this use of System.out by a logger.(Δηÿ8·ϊ‘ή2
+{
+java:S2142?"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ύΎ8Ορε‘ή2
